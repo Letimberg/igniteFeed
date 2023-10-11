@@ -62,7 +62,10 @@ Em construção.
 
 ## ⚙ Funcionalidades
 
-Em construção.
+- Adicionar um comentário;
+- Excluir um comentário;
+- Validações ao publicar um comentário;
+- Possível realizar likes nos comentários;
 
 ## 📑 Instruções
 
